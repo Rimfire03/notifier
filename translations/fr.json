@@ -1,0 +1,28 @@
+
+---
+
+#### `translations/fr.json` (remplace ou complète le fichier existant)
+```json
+{
+  "title": "Notifier",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurer Notifier",
+        "description": "Entrez le capteur d'occupation et le seuil de proximité."
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Aide Notifier",
+        "description": "help_text"
+      },
+      "edit": {
+        "title": "Options Notifier",
+        "description": "Gérez la liste des personnes et le seuil de proximité."
+      }
+    }
+  }
+}
