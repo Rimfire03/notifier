@@ -1,9 +1,0 @@
-{
-  domain notifier,
-  name Notifier,
-  version 1.0.0,
-  documentation ,
-  requirements [],
-  dependencies [],
-  codeowners []
-}
